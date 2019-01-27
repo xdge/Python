@@ -1,0 +1,4 @@
+frontEnd.py: 使用beautiful soup库爬取网页前端内容
+spider_sold:直接向服务器发送请求，接收返回信息，爬取已售房屋信息
+spider_forsale:在售房屋信息
+spider_forrent:在租房屋信息
